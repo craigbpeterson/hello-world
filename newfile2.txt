@@ -1,1 +1,6 @@
 "This is another new file. HOO-DANG!" 
+
+I added this text manually using Notepad. 
+This is amazing. Truly amazing.
+In a minute I will use the Git CMD to push these
+changes up to my hello-world repository.
